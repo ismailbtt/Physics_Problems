@@ -1,41 +1,41 @@
 # Sekcja 5: Elektromagnetyzm II
 
-## 1. Załamanie (Prawo Snella)
+## 1. Prawo Gaussa
 
-Promień światła biegnie z powietrza (n=1,00) do szkła (n=1,50). Jeśli kąt padania wynosi $30^\circ$, jaki jest kąt załamania?
+Ładunek punktowy $+2 \text{ C}$ znajduje się w początku układu współrzędnych. Oblicz strumień pola elektrycznego przez powierzchnię sferyczną o promieniu $1 \text{ m}$ wyśrodkowaną w początku układu.
 
-## 2. Siła Lorentza
+## 2. Prawo Ampère'a
 
-Cząstka naładowana o ładunku $q = 2 \times 10^{-19}$ C i masie $m = 4 \times 10^{-27}$ kg wpada w pole magnetyczne $B = 0.5$ T z prędkością $v = 10^6$ m/s prostopadle do pola. Jaka jest wartość siły Lorentza działającej na cząstkę?
+Dwa długie, równoległe przewody są oddalone od siebie o $10 \text{ cm}$ i przewodzą prądy o natężeniu $5 \text{ A}$ w przeciwnych kierunkach. Oblicz wartość i kierunek pola magnetycznego w punkcie znajdującym się w połowie odległości między przewodami.
 
-## 3. Energia fotonu
+## 3. Prawo Biota-Savarta
 
-Ludzkie oko jest najbardziej czułe na światło o długości fali około 550 nm (w próżni). Jaka jest częstotliwość tego światła? Jaka jest jego energia w elektronowoltach (eV)?
+Mały odcinek przewodu o długości $0,1 \text{ m}$ przewodzi prąd o natężeniu $3 \text{ A}$. Odcinek ten znajduje się w odległości $0,2 \text{ m}$ od punktu $P$. Oblicz pole magnetyczne w punkcie $P$ pochodzące od tego odcinka prądu (załóż, że odcinek jest prostopadły do linii łączącej go z punktem $P$).
 
-## 4. Analiza fali EM
+## 4. Moment siły magnetycznej
 
-Fala elektromagnetyczna ma składową pola elektrycznego opisaną przez $E_y(x,t) = 100 \sin(10^7 x - \omega t) \text{ V/m}$. Jaki jest kierunek rozchodzenia się fali? Jaka jest długość fali $\lambda$? Jaka jest częstość kołowa $\omega$? Jakie jest równanie składowej pola magnetycznego?
+Prostokątna pętla z drutu o wymiarach $10 \text{ cm}$ na $5 \text{ cm}$ przewodzi prąd o natężeniu $2 \text{ A}$. Jednorodne pole magnetyczne o indukcji $B = 0,3 \text{ T}$ jest przyłożone równolegle do płaszczyzny pętli. Jaka jest wartość momentu siły magnetycznej działającej na pętlę?
 
-## 5. Zastosowanie Prawa Ampère’a
+## 5. Analiza fali elektromagnetycznej
 
-Dwa długie, równoległe przewody są oddalone o 10 cm i przewodzą prądy o natężeniu 5 A w przeciwnych kierunkach. Oblicz wartość i kierunek pola magnetycznego w punkcie w połowie odległości między przewodami.
+Składowa elektryczna fali elektromagnetycznej opisana jest wzorem $E_y(x,t) = 100 \sin(10^7 x - \omega t) \text{ V/m}$. Jaki jest kierunek propagacji? Jaka jest długość fali $\lambda$? Jaka jest częstość kołowa $\omega$? Jakie jest równanie na składową pola magnetycznego?
 
-## 6. Przekładnia transformatora
+## 6. Długość fali i częstotliwość
 
-Transformator służy do obniżenia napięcia ze 120 V AC do 9,0 V AC. Jeśli uzwojenie pierwotne ma 400 zwojów, ile zwojów musi mieć uzwojenie wtórne?
+Oko ludzkie jest najbardziej czułe na światło o długości fali około $550 \text{ nm}$. Jakiemu kolorowi w widmie widzialnym to odpowiada? Jaka jest częstotliwość tego światła?
 
-## 7. Moment magnetyczny
+## 7. Widmo elektromagnetyczne
 
-Prostokątna pętla z drutu o wymiarach 10 cm na 5 cm przewodzi prąd o natężeniu 2 A. Jednorodne pole magnetyczne B = 0,3 T jest przyłożone równolegle do płaszczyzny pętli. Jaka jest wartość momentu siły magnetycznej działającego na pętlę?
+Wymień następujące rodzaje promieniowania elektromagnetycznego w kolejności rosnącej długości fali: Podczerwień, Ultrafiolet, Mikrofale, Promieniowanie rentgenowskie, Fale radiowe, Promieniowanie gamma.
 
-## 8. Prędkość światła w ośrodkach
+## 8. Załamanie (Prawo Snella)
 
-Jaka jest prędkość światła w diamencie, który ma współczynnik załamania n = 2,42?
+Promień światła przechodzi z powietrza ($n=1,00$) do szkła ($n=1,50$). Jeśli kąt padania wynosi $30^\circ$, jaki jest kąt załamania?
 
-## 9. Widmo EM
+## 9. Prędkość światła w ośrodkach
 
-Wymień następujące rodzaje promieniowania elektromagnetycznego w kolejności rosnącej energii na foton: Podczerwień, Ultrafiolet, Mikrofale, Promienie X, Fale radiowe, Promienie Gamma.
+Jaka jest prędkość światła w diamencie, który ma współczynnik załamania $n = 2,42$?
 
-## 10. Magazynowanie energii w kondensatorze
+## 10. Kąt Brewstera
 
-Kondensator płaski o powierzchni okładek 0,1 m² i odległości między nimi 1 mm jest podłączony do baterii 12 V. Oblicz pojemność kondensatora i energię w nim zgromadzoną.
+Światło w powietrzu pada na szklaną powierzchnię o współczynniku załamania $n = 1,50$. Przy jakim kącie padania światło odbite staje się całkowicie spolaryzowane?
