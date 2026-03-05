@@ -16,12 +16,9 @@ print(f"Solution for g: {solution}")
 
 
 ```
+## 4. Rearranging Formulas
 
-```text
-Solution for g: [4*pi**2*L/T**2]
-
-
-```
+The formula for the period of a simple pendulum is $T = 2\pi \sqrt{\frac{L}{g}}$. Rearrange the equation give a formula for $g$ (acceleration due to gravity).
 
 To rearrange the formula for the period of a simple pendulum to solve for $g$, follow these algebraic steps:
 
@@ -56,3 +53,4 @@ $$g = \frac{4\pi^2 L}{T^2}$$
 
 
 $$g = \frac{4\pi^2 L}{T^2}$$
+
