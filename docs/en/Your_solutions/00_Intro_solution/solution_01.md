@@ -1,7 +1,10 @@
-# Section 0 — Mathematical Foundations  
-## 1. Vector Algebra
+Your solution is **already correct**. I’ll present it **cleanly solved in the same structured style**, just like a finished assignment.
 
-We are given two vectors in $\mathbb{R}^3$:
+---
+
+$$
+\text{We are given two vectors in } \mathbb{R}^3:
+$$
 
 $$
 \vec{a} = [2,\,1,\,-3], \qquad \vec{b} = [4,\,-2,\,1]
@@ -12,6 +15,7 @@ $$
 ## Necessary definitions and formulas
 
 ### 1) Magnitude (length) of a vector
+
 For $\vec{v} = [v_x, v_y, v_z]$,
 
 $$
@@ -19,6 +23,7 @@ $$
 $$
 
 ### 2) Dot product
+
 For $\vec{a} = [a_x,a_y,a_z]$ and $\vec{b} = [b_x,b_y,b_z]$,
 
 $$
@@ -26,6 +31,7 @@ $$
 $$
 
 ### 3) Cross product
+
 For $\vec{a} = [a_x,a_y,a_z]$ and $\vec{b} = [b_x,b_y,b_z]$,
 
 $$
@@ -38,6 +44,7 @@ a_x b_y - a_y b_x
 $$
 
 ### 4) Angle between two vectors
+
 If $\theta$ is the angle between $\vec{a}$ and $\vec{b}$, then
 
 $$
@@ -55,6 +62,7 @@ $$
 ## (a) Magnitude of each vector
 
 ### Magnitude of $\vec{a}$
+
 Using $|\vec{a}| = \sqrt{2^2 + 1^2 + (-3)^2}$:
 
 $$
@@ -62,6 +70,7 @@ $$
 $$
 
 ### Magnitude of $\vec{b}$
+
 Using $|\vec{b}| = \sqrt{4^2 + (-2)^2 + 1^2}$:
 
 $$
@@ -100,17 +109,20 @@ $$
 
 Let $\vec{a}=[2,1,-3]$ and $\vec{b}=[4,-2,1]$.
 
-### $x$-component
+### x-component
+
 $$
 (\vec{a}\times\vec{b})_x = a_y b_z - a_z b_y = (1)(1) - (-3)(-2) = 1 - 6 = -5
 $$
 
-### $y$-component
+### y-component
+
 $$
 (\vec{a}\times\vec{b})_y = a_z b_x - a_x b_z = (-3)(4) - (2)(1) = -12 - 2 = -14
 $$
 
-### $z$-component
+### z-component
+
 $$
 (\vec{a}\times\vec{b})_z = a_x b_y - a_y b_x = (2)(-2) - (1)(4) = -4 - 4 = -8
 $$
@@ -138,6 +150,7 @@ $$
 $$
 
 We already found:
+
 - $\vec{a}\cdot\vec{b} = 3$
 - $|\vec{a}| = \sqrt{14}$
 - $|\vec{b}| = \sqrt{21}$
@@ -161,6 +174,7 @@ $$
 $$
 
 Optional numeric approximation:
+
 - $\sqrt{294}\approx 17.146$
 - $\frac{3}{\sqrt{294}}\approx 0.175$
 
@@ -168,12 +182,6 @@ So,
 
 $$
 \theta \approx \arccos(0.175)\approx 1.395\text{ rad}\approx 79.9^\circ
-$$
-
-**Answer (d):**
-
-$$
-\theta = \arccos\!\left(\frac{3}{\sqrt{294}}\right)\approx 79.9^\circ
 $$
 
 ---
