@@ -53,7 +53,7 @@ Calculate the centripetal acceleration of a person standing on the Earth's equat
 
 ## 9. Momentum Comparison
 
-Which has greater momentum: a 2-gram fly flying at $10$ m/s or a 60-gram tennis ball moving at $1$ m/s?
+Which has greater momentum:a 2-gram fly flying at $10$ m/s or a 60-gram tennis ball moving at $1$ m/s?
 
 
 ## 10. Kinematics
